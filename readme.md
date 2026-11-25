@@ -34,8 +34,8 @@ Python, Streamlit, Groq API (Qwen vision + GPT-OSS text), Pillow, PyMuPDF, panda
 
 ## Run locally
 ```bash
-git clone https://github.com/aravindshaji856/medical-report-explainer.git
-cd medical-report-explainer
+git https://github.com/gokuldivkr/Medical-Report-Explainer.git
+cd Medical-Report-Explainer
 python -m venv venv
 venv\Scripts\activate          # Windows
 pip install -r requirements.txt
